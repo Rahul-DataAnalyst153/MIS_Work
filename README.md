@@ -43,4 +43,4 @@ This project is a complete collection of my Microsoft Excel-based MIS dashboards
 ## 🔗 Author
 
 **Rahul Singh**  
-Entry-Level MIS Executive
+MIS Executive
